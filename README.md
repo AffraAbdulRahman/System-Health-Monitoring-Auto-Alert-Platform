@@ -28,8 +28,8 @@ Python logging module
 
 **Clone the repository**
 
-git clone https://github.com/yourusername/system-health-monitor.git
-cd system-health-monitor
+git clone https://github.com/AffraAbdulRahman/System-Health-Monitoring-Auto-Alert-Platform.git
+cd System-Health-Monitoring-Auto-Alert-Platform
 
 ****Install required dependencies
 ****
